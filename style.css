@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+}
+body {
+    background-image: url('./gif.gif'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
